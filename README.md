@@ -24,8 +24,7 @@ This project is a **Fleet Management System with Traffic Negotiation for Multi-R
 - **Algorithms:** Pathfinding, Traffic Optimization
 
 ## 🎥 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)](https://drive.google.com/file/d/1fx-h_wmlw9_oSeaAFt1BzMWYcfhx-0j6/view?usp=sharing)
-
+[![🎥 Watch Demo]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/1fx-h_wmlw9_oSeaAFt1BzMWYcfhx-0j6/view?usp=sharing))
 ## 🔧 Installation & Setup
 1. Clone the repository:
    ```sh
